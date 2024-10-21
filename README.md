@@ -143,6 +143,4 @@ The `SpecificationsValueChangedExpectant` uses this interface to define its exec
 
 ## Contributing
 
-## Contributing
-
 If you have suggestions, comments, found bugs, or just want to express your hatred towards the code or me, please feel free to do so. The code is open for you and your desires :3
