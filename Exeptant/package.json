@@ -1,0 +1,15 @@
+{
+    "name": "exeptant",
+    "version": "1.0.0",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
+    "scripts": {
+      "build": "tsc",
+      "start": "tsc && node examples/basic-example.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "typescript": "^4.0.0"
+    }
+  }
+  
