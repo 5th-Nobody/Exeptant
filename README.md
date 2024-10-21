@@ -143,4 +143,6 @@ The `SpecificationsValueChangedExpectant` uses this interface to define its exec
 
 ## Contributing
 
-Feel free to contribute to the project by opening issues, suggesting new features, or submitting pull requests. You can use the code freely in any project.
+## Contributing
+
+If you have suggestions, comments, found bugs, or just want to express your hatred towards the code or me, please feel free to do so. The code is open for you and your desires :3
